@@ -1,4 +1,4 @@
-🌟 AI App Name Generator
+# 🌟 AI App Name Generator
 
 Generate creative, unique, and brand-worthy app names using AI!
 Fast, modern UI + Google Gemini & OpenAI support.
@@ -82,5 +82,6 @@ Product branding
 ⭐ Want to Support?
 
 Leave a star ⭐ on the repo if this project helps you!
+
 
 
